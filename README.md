@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sandeep
+- 👋 Hi, I’m @Deep
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python and Terraform
 - 💞️ I’m looking to collaborate on Terraform
-- 📫 How to reach me youknow
+- 📫 How to reach me "youknow"
 
 <!---
 sandeepcsy/sandeepcsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
